@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1761208765 source:c:\codeblocks\compilerdesign\lab1\lab1q3\main.cpp
+	<iostream>
+	<string>
+
